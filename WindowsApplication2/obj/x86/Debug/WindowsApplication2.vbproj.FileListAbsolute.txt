@@ -80,3 +80,17 @@ C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\
 C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
 C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
 C:\Users\Admin\Downloads\file_2\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.AssemblyReference.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CoreCompileInputs.cache
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+E:\MapC-\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+E:\MapC-\WindowsApplication2\bin\Debug\GMap.NET.Core.xml
+E:\MapC-\WindowsApplication2\bin\Debug\GMap.NET.WindowsForms.xml
+E:\MapC-\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.CopyComplete

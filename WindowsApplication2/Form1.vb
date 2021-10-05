@@ -22,8 +22,8 @@ Public Class Form1
 
 
         '-7.2767636,112.7949036   18.3133495,105.9176342,17z/
-        copter_lat = 18.3133495
-        copter_lon = 105.9176342,17z
+        copter_lat = 21.0198421
+        copter_lon = 105.7974476
 
 
         myMap.MinZoom = 5
@@ -214,7 +214,11 @@ Public Class Form1
 
     End Sub
 
-    Private Sub lblInfo_Click(sender As Object, e As EventArgs) Handles lblInfo.Click
+    Private Sub lblInfo_Click(sender As Object, e As EventArgs)
+
+    End Sub
+
+    Private Sub TênToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles TênToolStripMenuItem.Click
 
     End Sub
 
